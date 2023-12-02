@@ -4,5 +4,5 @@
 
 @main
 def main(): Unit =
-    Day01.run()
+    Day02.run()
 end main
